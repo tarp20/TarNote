@@ -9,7 +9,7 @@ from setuptools import setup
 
 APP = ['TarNote.py']
 DATA_FILES = []
-OPTIONS = {'iconfile': '/Users/taras/Desktop/TarNote/images/logo.icns'}
+OPTIONS = {'iconfile': '/Users/taras/Desktop/TarNote/logo.icns'}
 
 setup(
     app=APP,
